@@ -1,4 +1,4 @@
-dashboard: streamlit run dashboard.py --server.port ${PORT:-8501}
+web: streamlit run dashboard.py --server.port ${PORT:-8501}
 
 
 
